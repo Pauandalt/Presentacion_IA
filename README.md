@@ -1,6 +1,6 @@
 # La Nube
 ???
-Play: https://pauandalt.github.io/r/r?
+Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_IA/
 ## pase a la siguiente diapositiva para empezar
 
 ## 
