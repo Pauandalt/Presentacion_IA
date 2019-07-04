@@ -13,89 +13,72 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_I
 
 ## Introducción 
 <p align="center">
-### Definición y explicación de qué es la nube
-  > Utilización de las instalaciones propias de un servidor web albergadas por un proveedor de Internet para almacenar, desplegar y ejecutar aplicaciones a petición de los usuarios demandantes de las mismas.
+###  Objetivo
+El objetivo de esta clase es que el alumno comprenda de manera simple qué es la inteligencia artificial. Así mismo, que interiorice conceptos básicos asociados con la IA y que comprenda que supondrá en un futuro la implementación de esta tecnología.
   
-### Características:
-+ Agilidad
-+ Escalabilidad y elasticidad
-+ Independencia entre el dispositivo y la ubicación
-+ Permite compartir servidores y dispositivos de almacenamiento
-+ Rendimiento
-+ Seguridad
-+ Mantenimiento
+### Qué esquema sigue la IA:
+![](https://pauandalt.github.io/Inteligencia_Artificial/algorithm2orange.1.jpg)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Cloud_computing-es.svg/800px-Cloud_computing-es.svg.png)
+### Qué es la IA?
 
-### Ventajas y desventajas
+La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.
+![](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/inteligencia_artificial_1_res/Inteligencia_746x419.jpeg)
 
+### Cuáles son sus fundamentos:
 
-| **Ventajas** | **Desventajas** |
-| ----- | ----- |
-|  Integración probada de servicios Red |  Centralización de datos  |
-| Prestación de servicios a nivel mundial | La confiabilidad de los servicios depende de la "salud" tecnológica |
-|	Permite prescindir de instalar cualquier tipo de software  | La disponibilidad de servicios altamente especializados muy limitada |
-|	Implementación más rápida y con menos riesgos | Curva de aprendizaje en empresas de orientación no tecnológica tenga unas pendientes significativas |
-| compartir servidores y dispositivos de almacenamiento | Seguridad de la información de la empresa  |
-| Actualizaciones automáticas que no afectan negativamente a los recursos de TI | Escalabilidad a largo plazo |
-| Contribuye al uso eficiente de la energía: |  |
+*contenido opcional* [LINK](http://intartificialdcarolinamolina.blogspot.com/2015/11/fundamentos-de-la-inteligencia.html)
 
 
-### Cloud computing
+### TIPOS DE INTELIGENCIA ARTIFICIAL
 
-> Cloud computing es un nuevo modelo de prestación de servicios de negocio y tecnología, que permite incluso al usuario acceder a un catálogo de servicios estandarizados y responder con ellos a las necesidades de su negocio, de forma flexible y adaptativa, en caso de demandas no previsibles o de picos de trabajo, pagando únicamente por el consumo efectuado, o incluso gratuitamente en caso de proveedores que se financian mediante publicidad o de organizaciones sin ánimo de lucro.
++ Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes neuronales artificiales.
 
->El cambio que ofrece la computación desde la nube es que permite aumentar el número de servicios basados en la red. Esto genera beneficios tanto para los proveedores, que pueden ofrecer, de forma más rápida y eficiente, un mayor número de servicios, como para los usuarios que tienen la posibilidad de acceder a ellos, disfrutando de la ‘transparencia’ e inmediatez del sistema y de un modelo de pago por consumo. Así mismo, el consumidor ahorra los costes salariales o los costes en inversión económica (locales, material especializado, etc.).
++ Sistemas que actúan como humanos: se trata de computadoras que realizan tareas de forma similar a como lo hacen las personas. Es el caso de los robots.
 
-## 2. Uso actual
++ Sistemas que piensan racionalmente: intentan emular el pensamiento lógico racional de los humanos, es decir, se investiga cómo lograr que las máquinas puedan percibir, razonar y actuar en consecuencia. Los sistemas expertos se engloban en este grupo.
 
-![](http://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2017/04/CAS.png)
++ Sistemas que actúan racionalmente: idealmente, son aquellos que tratan de imitar de manera racional el comportamiento humano, como los agentes inteligentes.
 
-### la situación actual del mercado
-![](https://pauandalt.github.io/La_Nube/usos_de_nubes.png)
+### Aplicaciones prácticas de la inteligencia artificial
+
+[clicke aquí para ver la infografía](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/docs/Infografia_inteligencia_artificial.pdf)
+
+## Redes Neuronales
+
+![](https://i2.wp.com/blogthinkbig.com/wp-content/uploads/2019/04/artificial-neural-network-3501528_1920-e1556181012867.png?resize=610%2C225&ssl=1)
+
+### Qué es una red neuronal
+
+> Las redes neuronales artificiales (también conocidas como sistemas conexionistas) son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico.
 
 ### Video: 
 
-[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/Estado_Actual.PNG)](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/video_explicaci%C3%B3n_Sencillo_RedN.PNG)](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/)
 
 ## Almacenamiento en la nube:
 
 ![](https://blog.netelip.com/wp-content/uploads/2018/07/almacenamiento-vdrive-comodidad.png)
 
 ### video 
-[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=3nFZj3bB9g8)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw)
 
-### Principales proveedores de almacenamiento en la nube:
+### Cómo trabaja:
 
-![](https://pauandalt.github.io/La_Nube/almacenamiento_nube_Proveedores.jpg)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-## La nube es mucho más que almacenamiento 
 
->El concepto de “nube informática” es muy amplio, y abarca casi todos los posibles tipo de servicio en línea, pero cuando las empresas predican ofrecer un utilitario alojado en la nube, por lo general se refieren a alguna de estas tres modalidades: el software como servicio (por sus siglas en inglés SaaS —Software as a Service—), Plataforma como Servicio (PaaS) e Infraestructura como Servicio (IaaS).
+### Ejemplo
 
->El software como servicio (SaaS) es un modelo de distribución de software en el que las aplicaciones están alojadas por una compañía o proveedor de servicio y puestas a disposición de los usuarios a través de una red, generalmente la Internet. Plataforma como servicio (PaaS) es un conjunto de utilitarios para abastecer al usuario de sistemas operativos y servicios asociados a través de Internet sin necesidad de descargas o instalación alguna. Infraestructura como Servicio (IaaS) se refiere a la tercerización de los equipos utilizados para apoyar las operaciones, incluido el almacenamiento, hardware, servidores y componentes de red.
+![](https://pauandalt.github.io/Inteligencia_Artificial/Ejemplo_Red_Neuronal.PNG)
 
-## Iaas, Paas, Saas
+## ¿Qué supondrá para nosotros, podemos controlarla completamente?
 
 ![](https://pauandalt.github.io/La_Nube/Piramide%20Saas_Isaas_Paas.PNG)
 
-### Saas
+### Video 1: ¿Se puede construir la inteligencia artificial sin perder el control sobre ella?
 
-![](https://pauandalt.github.io/La_Nube/Saas_providers.png)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_TED.PNG)](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/up-next?referrer=playlist-talks_on_artificial_intelligen)
 
-### Paas
+### Video 2: ¿Supondrá la automatización el fin de nuestros trabajos?
 
-![](https://pauandalt.github.io/La_Nube/Paas_providers.jpg)
-
-### Iaas
-
-![](https://pauandalt.github.io/La_Nube/Iaas_providers.png)
-
-
-## *Bitcoin*
-
-[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_Bitcoin.PNG)](https://www.youtube.com/watch?v=kubGCSj5y3k&ab_channel=SciShow)
-
-## *Blockchain*
-
-[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_Blockchain.PNG)](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained-Savjee)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_TED2.PNG)](https://www.ted.com/talks/david_autor_why_are_there_still_so_many_jobs/up-next)
