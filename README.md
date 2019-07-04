@@ -60,7 +60,7 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 ![](https://blog.netelip.com/wp-content/uploads/2018/07/almacenamiento-vdrive-comodidad.png)
 
 ### video 
-[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/La_Nube/video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw)
+[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/video_explicaci%C3%B3n_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw)
 
 ### Cómo trabaja:
 
