@@ -55,10 +55,6 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/video_explicaci%C3%B3n_Sencillo_RedN.PNG)](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/)
 
-## Almacenamiento en la nube:
-
-![](https://blog.netelip.com/wp-content/uploads/2018/07/almacenamiento-vdrive-comodidad.png)
-
 ### video 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/video_explicaci%C3%B3n_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw)
 
