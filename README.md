@@ -67,10 +67,6 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 
 ![](https://pauandalt.github.io/Inteligencia_Artificial/Ejemplo_Red_Neuronal.PNG)
 
-## ¿Qué supondrá para nosotros, podemos controlarla completamente?
-
-![](https://pauandalt.github.io/La_Nube/Piramide%20Saas_Isaas_Paas.PNG)
-
 ### Video 1: ¿Se puede construir la inteligencia artificial sin perder el control sobre ella?
 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_TED.PNG)](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/up-next?referrer=playlist-talks_on_artificial_intelligen)
