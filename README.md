@@ -42,6 +42,7 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 ### Aplicaciones prácticas de la inteligencia artificial
 
 ![](https://github.com/Pauandalt/Presentacion_IA/blob/master/infograf%C3%ADa.PNG?raw=true)
+
 [clicke aquí para ver la infografía](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/docs/Infografia_inteligencia_artificial.pdf)
 
 ## Redes Neuronales
