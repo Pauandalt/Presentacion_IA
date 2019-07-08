@@ -49,19 +49,22 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 
 ### Qué es una red neuronal
 
-> Las redes neuronales artificiales (también conocidas como sistemas conexionistas) son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico.
+Las redes neuronales artificiales (también conocidas como sistemas conexionistas) son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico.
 
 ### Video: 
 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/video_explicaci%C3%B3n_Sencillo_RedN.PNG)](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/)
 
-### video 
-[![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/video_explicaci%C3%B3n_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw)
 
 ### Cómo trabaja:
 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
+### Qué los diferencia de los programas informaticos convencionales
+
+[![IMAGE ALT TEXT HERE](https://github.com/Pauandalt/Inteligencia_Artificial/blob/master/video%20de%20redes%20neurnales.PNG?raw=trueG)](https://youtu.be/roF7wsNPAdc?t=186) 
+
+(final del video)
 
 ### Ejemplo
 
