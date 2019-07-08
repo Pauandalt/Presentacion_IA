@@ -72,6 +72,18 @@ Las redes neuronales artificiales (también conocidas como sistemas conexionista
 
 ![](https://pauandalt.github.io/Inteligencia_Artificial/Ejemplo_Red_Neuronal.PNG)
 
+### El futuro de la IA
+
+![](https://github.com/Pauandalt/Presentacion_IA/blob/master/noticias%20IA.PNG?raw=true)
+
+### El futuro de la IA
+
+![](https://github.com/Pauandalt/Presentacion_IA/blob/master/noticia2_IA.PNG?raw=true)
+
+### El futuro de la IA
+
+![](https://github.com/Pauandalt/Presentacion_IA/blob/master/noticia3_IA.PNG?raw=true)
+
 ### Video 1: ¿Se puede construir la inteligencia artificial sin perder el control sobre ella?
 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_TED.PNG)](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/up-next?referrer=playlist-talks_on_artificial_intelligen)
