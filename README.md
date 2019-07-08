@@ -95,3 +95,9 @@ Las redes neuronales artificiales (también conocidas como sistemas conexionista
 ### Video 2: ¿Supondrá la automatización el fin de nuestros trabajos?
 
 [![IMAGE ALT TEXT HERE](https://pauandalt.github.io/Inteligencia_Artificial/Video_TED2.PNG)](https://www.ted.com/talks/david_autor_why_are_there_still_so_many_jobs/up-next)
+
+### Video reportaje de “Redes” sobre El futuro: la fusión del alma y la tecnología:
+
+[![IMAGE ALT TEXT HERE](https://github.com/Pauandalt/Presentacion_IA/blob/master/video%20redes.PNG?raw=true)](http://www.rtve.es/alacarta/videos/redes/redes-futuro-fusion-del-alma-tecnologia/391648/
+)
+
